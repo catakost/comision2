@@ -1,0 +1,66 @@
+h1 {text-align: center;
+    color: rgb(10, 7, 171);
+    
+        font-family: "Fjalla One", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+    
+    h2{text-align: center;
+        color: rgb(10, 7, 171);
+        font-family: "Fjalla One", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+    
+    img{
+        height: 400px;
+        width: 400px;
+        border-radius: 50%; 
+    
+        display: block;
+        margin: auto;
+    
+    }
+    
+    body{
+        background-color: rgb(237, 251, 197);
+    }
+    
+    h3{text-align:left;
+     color: rgb(7, 62, 171);
+     font-family: "Fjalla One", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+    
+    p{
+        color: rgb(7, 62, 171);
+        .sedan-regular {
+            font-family: "Sedan", serif;
+            font-weight: 400;
+            font-style: normal;
+          }
+          
+    }
+    
+    
+    #enunciado3 {
+        color: rgb(9, 43, 110);
+    
+    }
+    
+    h4{
+        color: rgb(7, 62, 171);
+        font-family: "Sedan", serif;
+            font-weight: 400;
+            font-style: normal;
+       
+          
+    }
+    
+    
+    @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&display=swap');
+    
+    @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Sedan:ital@0;1&display=swap'); 
